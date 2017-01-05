@@ -5,7 +5,7 @@ include setup.py
 graft docs
 prune docs/build
 
-graft bt
+graft KSIF
 
 global-exclude *.so
 global-exclude *.pyd
